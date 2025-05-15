@@ -1,0 +1,8 @@
+E:\Ex_4\Ex_4\bin\Debug\Ex_4.exe.config
+E:\Ex_4\Ex_4\bin\Debug\Ex_4.exe
+E:\Ex_4\Ex_4\bin\Debug\Ex_4.pdb
+E:\Ex_4\Ex_4\obj\Debug\Ex_4.csproj.AssemblyReference.cache
+E:\Ex_4\Ex_4\obj\Debug\Ex_4.csproj.SuggestedBindingRedirects.cache
+E:\Ex_4\Ex_4\obj\Debug\Ex_4.csproj.CoreCompileInputs.cache
+E:\Ex_4\Ex_4\obj\Debug\Ex_4.exe
+E:\Ex_4\Ex_4\obj\Debug\Ex_4.pdb
